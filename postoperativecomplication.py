@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 import shap
 
-st.header("Development and validation of an artificial intelligence platform to predict surgical site infection for metastatic spinal disease")
+st.header("Machine learning-based prediction for postoperative complication among patients with metastatic spinal disease")
 st.sidebar.title("Parameters Selection Panel")
 st.sidebar.markdown("Picking up parameters")
 
